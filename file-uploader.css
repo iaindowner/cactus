@@ -1,6 +1,6 @@
-/* uc-file-uploader-regular > uc-modal > dialog {
-  background-color: transparent !important;
-} */
+.my-theme {
+  --uc-dialog-shadow-light: 0px 0px 0px oklch(0% 0 0 / 0.0);
+}
 
 uc-simple-btn {
 display: none;
