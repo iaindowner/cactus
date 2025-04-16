@@ -1,18 +1,4 @@
 .my-theme {
-  --uc-background-light: oklch(100% 0 0);
-  --uc-foreground-light: oklch(21% 0 0);
   --uc-primary-oklch-light: oklch(0.67 0.1808 251.84);
-  --uc-primary-light: oklch(var(--uc-primary-oklch-light));
-  --uc-primary-hover-light: oklch(var(--uc-primary-oklch-light) / 90%);
-  --uc-primary-transparent-light: oklch(var(--uc-primary-oklch-light) / 10%);
-  --uc-primary-foreground-light: oklch(100% 0 0);
-  --uc-secondary-light: oklch(0.67 0.1808 251.84);
-  --uc-secondary-hover-light: oklch(21% 0 0 / 0.08);
-  --uc-secondary-foreground-light: oklch(21% 0 0);
-  --uc-muted-light: oklch(0.67 0.1808 251.84);
-  --uc-muted-foreground-light: oklch(55% 0 0);
-  --uc-destructive-light: oklch(59% 0.235 28.5 / 0.05);
-  --uc-destructive-foreground-light: oklch(59% 0.235 28.5);
-  --uc-border-light: oklch(92% 0 0);
-  --uc-dialog-shadow-light: oklch(0.67 0.1808 251.84);
+  --uc-primary-oklch-dark: 69% 0.1768 258.4;
 }
