@@ -1,5 +1,5 @@
 .my-theme {
-  --uc-dialog-shadow-light: 0px 0px 0px oklch(0% 0 0 / 0.0);
+  --uc-dialog-shadow-light: 0px 5px 5px oklch(0% 0 0 / 0.1);
 }
 
 uc-simple-btn {
