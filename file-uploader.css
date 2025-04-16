@@ -2,6 +2,10 @@
   background-color: transparent !important;
 } */
 
+uc-simple-btn {
+display: none;
+}
+
 @supports selector(dialog::backdrop) {
   uc-file-uploader-regular > uc-modal > dialog::backdrop {
     background-color: transparent !important;
