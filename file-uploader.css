@@ -5,8 +5,6 @@
   --uc-primary-oklch-dark: oklch(0.67 0.1808 251.84);
 }
 
-@supports selector(dialog::backdrop) {
-  :where([uc-modal]) > dialog::backdrop {
-    background-color: transparent !important;
-  }
+uc-file-uploader-regular > uc-modal > dialog {
+  background-color: transparent !important;
 }
