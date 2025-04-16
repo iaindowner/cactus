@@ -1,7 +1,7 @@
 .my-theme {
   --uc-background-light: oklch(100% 0 0);
   --uc-foreground-light: oklch(21% 0 0);
-  --uc-primary-oklch-light: 59% 0.22 264;
+  --uc-primary-oklch-light: oklch(0.67 0.1808 251.84);
   --uc-primary-light: oklch(var(--uc-primary-oklch-light));
   --uc-primary-hover-light: oklch(var(--uc-primary-oklch-light) / 90%);
   --uc-primary-transparent-light: oklch(var(--uc-primary-oklch-light) / 10%);
