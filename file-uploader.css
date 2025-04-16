@@ -8,6 +8,5 @@
 @supports selector(dialog::backdrop) {
   :where([uc-modal]) > dialog::backdrop {
     background-color: transparent !important;
-    background-image: none !important;
   }
 }
