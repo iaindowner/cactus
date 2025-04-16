@@ -1,4 +1,6 @@
 .my-theme {
  --uc-background-light: oklch(0.67 0.1808 251.84);
-  --uc-primary-oklch-dark: 69% 0.1768 258.4;
+  --uc-background-dark: oklch(0.67 0.1808 251.84);
+   --uc-primary-oklch-light: oklch(0.67 0.1808 251.84);
+  --uc-primary-oklch-dark: oklch(0.67 0.1808 251.84);
 }
