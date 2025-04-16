@@ -1,10 +1,13 @@
 .my-theme {
   --uc-dialog-shadow-light: 0px 6px 20px oklch(0% 0 0 / 0.1);
-  --uc-border-light: oklch(92% 0 0);
 }
 
 uc-simple-btn {
 display: none;
+}
+
+uc-file-uploader-regular > uc-modal > dialog {
+  border: 1px solid #DADCE0 !important;
 }
 
 @supports selector(dialog::backdrop) {
