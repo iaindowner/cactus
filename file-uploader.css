@@ -12,7 +12,7 @@ uc-file-uploader-regular > uc-modal > dialog {
 
 @supports selector(dialog::backdrop) {
   uc-file-uploader-regular > uc-modal > dialog::backdrop {
-    background-color: transparent !important;
+    background-color: "#F8FAFE" !important;
     background-image: none !important;
   }
 }
